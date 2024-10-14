@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <tittle> Welcome to Web Lecture <tittle>
+    <h1> Welcome to Web Lecture </h1>
     </head>
     <body
         <h2>Hello HTML5</h2>
